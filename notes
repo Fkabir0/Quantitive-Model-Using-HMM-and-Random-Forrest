@@ -1,0 +1,2 @@
+The model is based on 5 minute data but after careful analysis it seems as though the data was too noisy so I decided to train on more generalized data by resampling each bar to a higher timeframe.
+I will continue to examine the results in the near future through live trading now that back testing has been completed. 
